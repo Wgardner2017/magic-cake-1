@@ -51,3 +51,7 @@ nav li {
 h1 {
   font-size: 6em;
 }
+.recipes {
+  list-style: none;
+  padding: 0;
+}
